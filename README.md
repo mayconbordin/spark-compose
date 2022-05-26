@@ -1,2 +1,2 @@
-# <img alt="spark-compose" src="default.png" width="300">
+# <img alt="spark-compose" src="logo.png" width="300">
 Composable Spark Jobs
